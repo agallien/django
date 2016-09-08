@@ -5,3 +5,4 @@ charlie
 delta
 echo
 foxtrot
+hotel
